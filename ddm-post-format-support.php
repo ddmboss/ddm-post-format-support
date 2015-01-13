@@ -6,7 +6,7 @@
      * Version: 1.0.0
      * Author: Delano Maloney
      * Author URI: https://delanomaloney.com/
-     * License: A short license name. Example: GPL2
+     * License: GPL3
      */
 
 function add_post_formats() {
