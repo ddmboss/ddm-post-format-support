@@ -1,11 +1,11 @@
 <?php 
 /**
  * Plugin Name: DDM Post Format Support
- * Plugin URI: https://www.delanomaloney.com/
+ * Plugin URI: http://www.delanomaloney.com/
  * Description: A simple plugin that overrides the default post format support of themes, without the need to edit the theme's files.
  * Version: 1.0.0
  * Author: Delano Maloney
- * Author URI: https://www.delanomaloney.com/
+ * Author URI: http://www.delanomaloney.com/
  * License: GPL3
  */
 

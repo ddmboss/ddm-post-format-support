@@ -1,0 +1,1 @@
+DDM Post Format Support is a simple plugin created to do one thing, add WordPress' built in Post Formats to any theme regardless of whether or not they are supported by the theme.
