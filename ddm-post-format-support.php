@@ -4,8 +4,8 @@
      * Plugin URI: https://www.delanomaloney.com/
      * Description: A simple plugin that overrides the default post format support of themes, without the need to edit the theme's files.
      * Version: 1.0.0
-     * Author: Delano Maloney
-     * Author URI: https://www.delanomaloney.com/
+     * Author: ddmboss designs
+     * Author URI: https://www.ddmbossdesigns.com/
      * License: GPL3
      */
 
