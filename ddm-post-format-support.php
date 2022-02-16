@@ -6,7 +6,7 @@
      * Version: 1.0.1
      * Author: ddmboss designs
      * Author URI: https://www.ddmbossdesigns.com/
-     * License: GPL3
+     * License: GPL2
      */
 
 function ddm_add_post_formats() {
